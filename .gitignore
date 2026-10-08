@@ -1,0 +1,20 @@
+# Generated metric dumps
+metrics_dump/
+output/
+
+# Temporary files
+*.tmp
+*.temp
+.validation-stubs/
+
+# Shell/editor artifacts
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+
+# Local environment files
+.env
+.env.*
+!.env.example
